@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi I'm Josh 👋
+
+I'm an entrepenurial developer focused on spending ages on ideas and seeing a tiny portion of them through. I love automation, agentic systems and data driven development. 
+
+📮 josh@agentic.id 
 
 <!--
 **devjsc/devjsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
