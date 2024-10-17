@@ -1,6 +1,6 @@
 ## Hi I'm Josh 👋
 
-I'm an entrepenurial developer focused on spending ages on ideas and only seeing a tiny portion of them through. I love automation, agentic systems and data driven development. 
+I'm an entrepreneurial developer focused on spending ages on ideas and only seeing a tiny portion of them through. I love automation, agentic systems and data driven development. 
 
 📮 josh@agentic.id 
 
